@@ -14,7 +14,8 @@ body {
     margin: auto;
     padding: 0px;
     border: 0px;
-    background-color: #FFF;
+    background-color: #666;
+    color: #FFF;
     top: 10px;
     position: relative; 
 }
@@ -36,7 +37,7 @@ body {
     clear: both;
     width: 100%;
     padding: 3px 0 3px 0;
-    background: #39F;
+    background: #333;
     color: #FFF;
     font-weight: bold;
     text-align: center;
@@ -89,8 +90,8 @@ body {
     padding: 3px 10px 3px 10px;
     color: #FFF;
     font-size: 16px;
-    border-left: solid 10px #C00;
-    background: #F90 url(../images/main_h2.jpg) right top repeat-y;
+    border-left: solid 10px rgb(156, 149, 248);
+    background: rgb(89, 54, 248) url(../images/main_h2.jpg) right top repeat-y;
 }
 #main p {
     margin: 0;
@@ -130,7 +131,7 @@ body {
 #side {
     width: 85%;
     padding: 20px;
-    background-color: #F99;
+    background-color: rgb(101, 138, 53);
 }
 #side .box {
     margin: 0 auto 30px auto;
