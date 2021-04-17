@@ -163,6 +163,7 @@ body {
     padding: 8px 0 8px 4px;
     list-style: none;
     border-bottom: solid 1px #C36;
+    color: #333;
 }
 
 #side .box .boxBody ul li:hover {
