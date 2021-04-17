@@ -61,10 +61,10 @@ body {
     height: 20px;
     margin: 0;
     padding: 10px;
-    color: #FFF;
+    color: #333;
     font-size: 20px;
     text-decoration: none;
-    background-color: green;
+    background-color: rgb(247, 250, 82);
 }
 
 #nav ul li a:hover {
@@ -91,7 +91,7 @@ body {
     color: #FFF;
     font-size: 16px;
     border-left: solid 10px rgb(156, 149, 248);
-    background: rgb(89, 54, 248) url(../images/main_h2.jpg) right top repeat-y;
+    background: rgb(54, 248, 206) url(../images/main_h2.jpg) right top repeat-y;
 }
 #main p {
     margin: 0;
@@ -131,7 +131,7 @@ body {
 #side {
     width: 85%;
     padding: 20px;
-    background-color: rgb(101, 138, 53);
+    background-color: rgb(250, 195, 232);
 }
 #side .box {
     margin: 0 auto 30px auto;
